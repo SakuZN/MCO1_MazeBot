@@ -1,0 +1,4 @@
+If Jar file is not running, the Java SE Development Kit is needed. 
+The version must be at least 17 or higher
+
+https://www.oracle.com/ph/java/technologies/downloads/#jdk17-windows
